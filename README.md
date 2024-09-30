@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ilda16
-- 👀  I’m interested in the intersection of software engineering and machine learning, with a focus on creating intelligent applications that adapt and learn from data.
+- 👀  I’m interested in the intersection of software engineering and machine learning.
 - 🌱 I’m currently learning advanced data structures and algorithms to further enhance my problem-solving skills.
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of technology and user experience.
 - 📫 How to reach me? Feel free to connect on LinkedIn [www.linkedin.com/in/ilda-martinez-2209001ab] or drop me an email at [ildamartinez274@gmail.com].
