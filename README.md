@@ -1,4 +1,17 @@
--  Hi, I’m Ilda Martinez! (★‿★)
+```         
+   (o)--(o)
+  /.______.\     <(   Hello, Welcome!  )
+  \________/
+ ./        \.
+( .        , )
+ \ \_\\//_/ /
+  ~~  ~~  ~~
+``` 
+
+
+
+
+-  Hi, I’m Ilda Martinez! (★‿★) , 23yo, she/her
 -  I’m interested in the intersection of software engineering, IT, and healthcare.
 -  I’m looking to collaborate on  projects that push the boundaries of technology and the user experience.
 -  How to reach me? Feel free to connect on LinkedIn [www.linkedin.com/in/ilda-martinez-2209001ab] or drop me an email at [ildamartinez274@gmail.com].
